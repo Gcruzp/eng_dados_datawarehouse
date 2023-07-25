@@ -35,4 +35,7 @@ Para realizar as atividades propostas, utilizou-se da seguinte estrutura:
 5. Selecionar as 5 categorias que mais venderam em cada ano.
 
 
+
+
+
 Link do curso: <https://www.udemy.com/course/engenheiro-de-dados/>
