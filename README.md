@@ -4,7 +4,7 @@
 
 ## Contexto: 
 
-A empresa fictícia possui um banco de dados que gerência informações relacionadas a pedidos, produtos, clientes, fornecedores, colaboradores, entre outros.
+A empresa fictícia possui um banco de dados que gerencia informações relacionadas a pedidos, produtos, clientes, fornecedores, colaboradores, entre outros.
 
 ## Estrutura do Banco de Dados:
 O esquema do Banco de Dados Relacional é representado conforme a imagem abaixo:
