@@ -1,0 +1,659 @@
+idpedido,quantidade,nome_produto,preco_pedido,preco_tabela,diferenca,discount
+10329,20,Cte de Blaye,210.8,263.5,52.699997,0
+10351,20,Cte de Blaye,210.8,263.5,52.699997,0
+10353,50,Cte de Blaye,210.8,263.5,52.699997,0
+10360,10,Cte de Blaye,210.8,263.5,52.699997,0
+10372,40,Cte de Blaye,210.8,263.5,52.699997,0
+10417,50,Cte de Blaye,210.8,263.5,52.699997,0
+10424,49,Cte de Blaye,210.8,263.5,52.699997,0
+10479,30,Cte de Blaye,210.8,263.5,52.699997,0
+10268,10,Thringer Rostbratwurst,99,123.79,24.79,0
+10290,15,Thringer Rostbratwurst,99,123.79,24.79,0
+10305,25,Thringer Rostbratwurst,99,123.79,24.79,0
+10354,4,Thringer Rostbratwurst,99,123.79,24.79,0
+10360,35,Thringer Rostbratwurst,99,123.79,24.79,0
+10369,20,Thringer Rostbratwurst,99,123.79,24.79,0
+10382,14,Thringer Rostbratwurst,99,123.79,24.79,0
+10400,21,Thringer Rostbratwurst,99,123.79,24.79,0
+10440,24,Thringer Rostbratwurst,99,123.79,24.79,0
+10465,18,Thringer Rostbratwurst,99,123.79,24.79,0
+10420,20,Mishi Kobe Niku,77.6,97,19.400002,0
+10252,40,Sir Rodney's Marmalade,64.8,81,16.199997,0
+10272,6,Sir Rodney's Marmalade,64.8,81,16.199997,0
+10292,20,Sir Rodney's Marmalade,64.8,81,16.199997,0
+10372,12,Sir Rodney's Marmalade,64.8,81,16.199997,0
+10384,28,Sir Rodney's Marmalade,64.8,81,16.199997,0
+10293,12,Carnarvon Tigers,50,62.5,12.5,0
+10305,25,Carnarvon Tigers,50,62.5,12.5,0
+10332,40,Carnarvon Tigers,50,62.5,12.5,0
+10340,20,Carnarvon Tigers,50,62.5,12.5,0
+10382,9,Carnarvon Tigers,50,62.5,12.5,0
+10470,30,Carnarvon Tigers,50,62.5,12.5,0
+10255,30,Raclette Courdavault,44,55,11,0
+10267,70,Raclette Courdavault,44,55,11,0
+10275,6,Raclette Courdavault,44,55,11,0
+10278,15,Raclette Courdavault,44,55,11,0
+10298,30,Raclette Courdavault,44,55,11,0
+10304,10,Raclette Courdavault,44,55,11,0
+10324,40,Raclette Courdavault,44,55,11,0
+10328,9,Raclette Courdavault,44,55,11,0
+10341,9,Raclette Courdavault,44,55,11,0
+10387,12,Raclette Courdavault,44,55,11,0
+10410,16,Raclette Courdavault,44,55,11,0
+10411,9,Raclette Courdavault,44,55,11,0
+10423,20,Raclette Courdavault,44,55,11,0
+10430,70,Raclette Courdavault,44,55,11,0
+10457,36,Raclette Courdavault,44,55,11,0
+10479,60,Raclette Courdavault,44,55,11,0
+10480,12,Raclette Courdavault,44,55,11,0
+10488,30,Raclette Courdavault,44,55,11,0
+10490,60,Raclette Courdavault,44,55,11,0
+10249,40,Manjimup Dried Apples,42.4,53,10.599998,0
+10250,35,Manjimup Dried Apples,42.4,53,10.599998,0
+10291,2,Manjimup Dried Apples,42.4,53,10.599998,0
+10335,48,Manjimup Dried Apples,42.4,53,10.599998,0
+10362,20,Manjimup Dried Apples,42.4,53,10.599998,0
+10397,18,Manjimup Dried Apples,42.4,53,10.599998,0
+10472,18,Manjimup Dried Apples,42.4,53,10.599998,0
+10484,3,Manjimup Dried Apples,42.4,53,10.599998,0
+10486,25,Manjimup Dried Apples,42.4,53,10.599998,0
+10260,15,Tarte au sucre,39.4,49.3,9.899998,0
+10277,12,Tarte au sucre,39.4,49.3,9.899998,0
+10286,40,Tarte au sucre,39.4,49.3,9.899998,0
+10298,15,Tarte au sucre,39.4,49.3,9.899998,0
+10307,10,Tarte au sucre,39.4,49.3,9.899998,0
+10310,5,Tarte au sucre,39.4,49.3,9.899998,0
+10314,25,Tarte au sucre,39.4,49.3,9.899998,0
+10316,70,Tarte au sucre,39.4,49.3,9.899998,0
+10339,28,Tarte au sucre,39.4,49.3,9.899998,0
+10389,20,Tarte au sucre,39.4,49.3,9.899998,0
+10394,10,Tarte au sucre,39.4,49.3,9.899998,0
+10408,35,Tarte au sucre,39.4,49.3,9.899998,0
+10413,40,Tarte au sucre,39.4,49.3,9.899998,0
+10449,35,Tarte au sucre,39.4,49.3,9.899998,0
+10270,25,Ipoh Coffee,36.8,46,9.200001,0
+10294,15,Ipoh Coffee,36.8,46,9.200001,0
+10302,12,Ipoh Coffee,36.8,46,9.200001,0
+10309,20,Ipoh Coffee,36.8,46,9.200001,0
+10312,24,Ipoh Coffee,36.8,46,9.200001,0
+10340,40,Ipoh Coffee,36.8,46,9.200001,0
+10458,20,Ipoh Coffee,36.8,46,9.200001,0
+10464,3,Ipoh Coffee,36.8,46,9.200001,0
+10468,15,Ipoh Coffee,36.8,46,9.200001,0
+10277,20,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10302,28,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10312,4,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10319,14,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10360,30,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10368,13,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10377,20,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10387,6,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10406,42,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10443,12,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10452,15,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10458,30,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10474,18,Rssle Sauerkraut,36.4,45.6,9.199997,0
+10257,25,Schoggi Schokolade,35.1,43.9,8.800003,0
+10278,8,Vegie-spread,35.1,43.9,8.800003,0
+10284,15,Schoggi Schokolade,35.1,43.9,8.800003,0
+10293,5,Vegie-spread,35.1,43.9,8.800003,0
+10324,80,Vegie-spread,35.1,43.9,8.800003,0
+10379,16,Vegie-spread,35.1,43.9,8.800003,0
+10402,65,Vegie-spread,35.1,43.9,8.800003,0
+10429,35,Vegie-spread,35.1,43.9,8.800003,0
+10441,50,Schoggi Schokolade,35.1,43.9,8.800003,0
+10344,70,Northwoods Cranberry Sauce,32,40,8,0
+10345,70,Northwoods Cranberry Sauce,32,40,8,0
+10265,30,Alice Mutton,31.2,39,7.799999,0
+10279,15,Alice Mutton,31.2,39,7.799999,0
+10294,15,Alice Mutton,31.2,39,7.799999,0
+10302,40,Alice Mutton,31.2,39,7.799999,0
+10319,8,Alice Mutton,31.2,39,7.799999,0
+10338,20,Alice Mutton,31.2,39,7.799999,0
+10339,70,Alice Mutton,31.2,39,7.799999,0
+10346,36,Alice Mutton,31.2,39,7.799999,0
+10415,2,Alice Mutton,31.2,39,7.799999,0
+10430,45,Alice Mutton,31.2,39,7.799999,0
+10431,50,Alice Mutton,31.2,39,7.799999,0
+10444,10,Alice Mutton,31.2,39,7.799999,0
+10262,2,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10266,12,Queso Manchego La Pastora,30.4,38,7.6000004,0
+10295,4,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10301,20,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10329,12,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10346,20,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10369,18,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10383,20,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10401,70,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10426,5,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10430,30,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10433,28,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10436,40,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10439,15,Queso Manchego La Pastora,30.4,38,7.6000004,0
+10458,15,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10464,30,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10471,20,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10494,30,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10497,14,Gnocchi di nonna Alice,30.4,38,7.6000004,0
+10296,15,Gudbrandsdalsost,28.8,36,7.200001,0
+10308,1,Gudbrandsdalsost,28.8,36,7.200001,0
+10311,7,Gudbrandsdalsost,28.8,36,7.200001,0
+10350,18,Gudbrandsdalsost,28.8,36,7.200001,0
+10356,20,Gudbrandsdalsost,28.8,36,7.200001,0
+10364,30,Gudbrandsdalsost,28.8,36,7.200001,0
+10392,50,Gudbrandsdalsost,28.8,36,7.200001,0
+10395,8,Gudbrandsdalsost,28.8,36,7.200001,0
+10407,15,Gudbrandsdalsost,28.8,36,7.200001,0
+10419,20,Gudbrandsdalsost,28.8,36,7.200001,0
+10493,10,Gudbrandsdalsost,28.8,36,7.200001,0
+10248,12,Queso Cabrales,14,21,7,0
+10268,4,Mozzarella di Giovanni,27.8,34.8,7,0
+10269,20,Mozzarella di Giovanni,27.8,34.8,7,0
+10272,24,Mozzarella di Giovanni,27.8,34.8,7,0
+10274,7,Mozzarella di Giovanni,27.8,34.8,7,0
+10283,3,Mozzarella di Giovanni,27.8,34.8,7,0
+10297,20,Mozzarella di Giovanni,27.8,34.8,7,0
+10325,40,Mozzarella di Giovanni,27.8,34.8,7,0
+10330,25,Mozzarella di Giovanni,27.8,34.8,7,0
+10337,25,Mozzarella di Giovanni,27.8,34.8,7,0
+10372,42,Mozzarella di Giovanni,27.8,34.8,7,0
+10390,24,Mozzarella di Giovanni,27.8,34.8,7,0
+10396,21,Mozzarella di Giovanni,27.8,34.8,7,0
+10435,10,Mozzarella di Giovanni,27.8,34.8,7,0
+10459,40,Mozzarella di Giovanni,27.8,34.8,7,0
+10497,25,Mozzarella di Giovanni,27.8,34.8,7,0
+10252,40,Camembert Pierrot,27.2,34,6.799999,0
+10283,35,Camembert Pierrot,27.2,34,6.799999,0
+10284,20,Camembert Pierrot,27.2,34,6.799999,0
+10294,21,Camembert Pierrot,27.2,34,6.799999,0
+10357,8,Camembert Pierrot,27.2,34,6.799999,0
+10359,80,Camembert Pierrot,27.2,34,6.799999,0
+10361,55,Camembert Pierrot,27.2,34,6.799999,0
+10372,70,Camembert Pierrot,27.2,34,6.799999,0
+10380,6,Camembert Pierrot,27.2,34,6.799999,0
+10384,15,Camembert Pierrot,27.2,34,6.799999,0
+10385,20,Camembert Pierrot,27.2,34,6.799999,0
+10419,60,Camembert Pierrot,27.2,34,6.799999,0
+10464,20,Camembert Pierrot,27.2,34,6.799999,0
+10481,40,Camembert Pierrot,27.2,34,6.799999,0
+10289,9,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10343,50,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10368,35,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10370,30,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10426,7,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10436,30,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10439,6,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10451,35,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10470,8,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10479,30,Wimmers gute Semmelkndel,26.6,33.25,6.6499996,0
+10256,15,Perth Pasties,26.2,32.8,6.5999985,0
+10285,36,Perth Pasties,26.2,32.8,6.5999985,0
+10306,10,Perth Pasties,26.2,32.8,6.5999985,0
+10312,20,Perth Pasties,26.2,32.8,6.5999985,0
+10380,20,Perth Pasties,26.2,32.8,6.5999985,0
+10388,40,Perth Pasties,26.2,32.8,6.5999985,0
+10395,70,Perth Pasties,26.2,32.8,6.5999985,0
+10416,10,Perth Pasties,26.2,32.8,6.5999985,0
+10421,15,Perth Pasties,26.2,32.8,6.5999985,0
+10437,15,Perth Pasties,26.2,32.8,6.5999985,0
+10455,50,Perth Pasties,26.2,32.8,6.5999985,0
+10479,28,Perth Pasties,26.2,32.8,6.5999985,0
+10258,6,Mascarpone Fabioli,25.6,32,6.3999996,0
+10314,40,Mascarpone Fabioli,25.6,32,6.3999996,0
+10335,6,Mascarpone Fabioli,25.6,32,6.3999996,0
+10330,50,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10337,24,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10357,16,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10393,70,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10404,30,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10421,30,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10422,2,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10432,10,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10444,15,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10448,6,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10458,30,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10487,30,Gumbr Gummibrchen,24.9,31.23,6.33,0
+10273,24,Ikura,24.8,31,6.200001,0
+10276,15,Ikura,24.8,31,6.200001,0
+10357,30,Ikura,24.8,31,6.200001,0
+10389,16,Ikura,24.8,31,6.200001,0
+10449,14,Ikura,24.8,31,6.200001,0
+10450,20,Ikura,24.8,31,6.200001,0
+10478,20,Ikura,24.8,31,6.200001,0
+10262,15,Uncle Bob's Organic Dried Pears,24,30,6,0
+10385,10,Uncle Bob's Organic Dried Pears,24,30,6,0
+10459,16,Uncle Bob's Organic Dried Pears,24,30,6,0
+10471,30,Uncle Bob's Organic Dried Pears,24,30,6,0
+10418,16,Sirop d'rable,22.8,28.5,5.700001,0
+10440,90,Sirop d'rable,22.8,28.5,5.700001,0
+10455,25,Sirop d'rable,22.8,28.5,5.700001,0
+10259,1,Gravad lax,20.8,26,5.200001,0
+10337,28,Gravad lax,20.8,26,5.200001,0
+10408,10,Gravad lax,20.8,26,5.200001,0
+10263,60,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10282,6,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10306,10,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10327,35,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10329,8,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10338,15,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10380,18,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10401,18,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10461,28,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10468,8,Nord-Ost Matjeshering,20.7,25.89,5.1899986,0
+10309,30,Grandma's Boysenberry Spread,20,25,5,0
+10325,6,Grandma's Boysenberry Spread,20,25,5,0
+10254,21,Pt chinois,19.2,24,4.799999,0
+10280,20,Pt chinois,19.2,24,4.799999,0
+10342,40,Pt chinois,19.2,24,4.799999,0
+10356,12,Pt chinois,19.2,24,4.799999,0
+10389,15,Pt chinois,19.2,24,4.799999,0
+10398,120,Pt chinois,19.2,24,4.799999,0
+10425,10,Pt chinois,19.2,24,4.799999,0
+10451,120,Pt chinois,19.2,24,4.799999,0
+10461,60,Pt chinois,19.2,24,4.799999,0
+10476,2,Pt chinois,19.2,24,4.799999,0
+10485,30,Pt chinois,19.2,24,4.799999,0
+10249,9,Tofu,18.6,23.25,4.6499996,0
+10325,9,Tofu,18.6,23.25,4.6499996,0
+10333,10,Tofu,18.6,23.25,4.6499996,0
+10375,15,Tofu,18.6,23.25,4.6499996,0
+10393,42,Tofu,18.6,23.25,4.6499996,0
+10409,12,Tofu,18.6,23.25,4.6499996,0
+10412,20,Tofu,18.6,23.25,4.6499996,0
+10427,35,Tofu,18.6,23.25,4.6499996,0
+10474,12,Tofu,18.6,23.25,4.6499996,0
+10309,20,Chef Anton's Cajun Seasoning,17.6,22,4.3999996,0
+10326,24,Chef Anton's Cajun Seasoning,17.6,22,4.3999996,0
+10336,18,Chef Anton's Cajun Seasoning,17.6,22,4.3999996,0
+10339,10,Chef Anton's Cajun Seasoning,17.6,22,4.3999996,0
+10344,35,Chef Anton's Cajun Seasoning,17.6,22,4.3999996,0
+10464,16,Chef Anton's Cajun Seasoning,17.6,22,4.3999996,0
+10258,65,Chef Anton's Gumbo Mix,17,21.35,4.3500004,0
+10262,12,Chef Anton's Gumbo Mix,17,21.35,4.3500004,0
+10290,20,Chef Anton's Gumbo Mix,17,21.35,4.3500004,0
+10382,32,Chef Anton's Gumbo Mix,17,21.35,4.3500004,0
+10274,20,Flotemysost,17.2,21.5,4.299999,0
+10304,2,Flotemysost,17.2,21.5,4.299999,0
+10309,3,Flotemysost,17.2,21.5,4.299999,0
+10320,30,Flotemysost,17.2,21.5,4.299999,0
+10333,40,Flotemysost,17.2,21.5,4.299999,0
+10364,5,Flotemysost,17.2,21.5,4.299999,0
+10373,50,Flotemysost,17.2,21.5,4.299999,0
+10378,6,Flotemysost,17.2,21.5,4.299999,0
+10387,15,Flotemysost,17.2,21.5,4.299999,0
+10396,60,Flotemysost,17.2,21.5,4.299999,0
+10399,30,Flotemysost,17.2,21.5,4.299999,0
+10401,60,Flotemysost,17.2,21.5,4.299999,0
+10407,15,Flotemysost,17.2,21.5,4.299999,0
+10447,2,Flotemysost,17.2,21.5,4.299999,0
+10455,30,Flotemysost,17.2,21.5,4.299999,0
+10458,50,Flotemysost,17.2,21.5,4.299999,0
+10473,12,Flotemysost,17.2,21.5,4.299999,0
+10250,15,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10251,20,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10303,30,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10328,40,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10351,10,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10366,5,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10367,15,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10379,20,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10401,20,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10447,35,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10451,28,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10493,15,Louisiana Fiery Hot Pepper Sauce,16.8,21.05,4.25,0
+10251,6,Gustaf's Knckebrd,16.8,21,4.200001,0
+10296,12,Queso Cabrales,16.8,21,4.200001,0
+10327,50,Queso Cabrales,16.8,21,4.200001,0
+10353,12,Queso Cabrales,16.8,21,4.200001,0
+10365,24,Queso Cabrales,16.8,21,4.200001,0
+10407,30,Queso Cabrales,16.8,21,4.200001,0
+10434,6,Queso Cabrales,16.8,21,4.200001,0
+10435,12,Gustaf's Knckebrd,16.8,21,4.200001,0
+10442,30,Queso Cabrales,16.8,21,4.200001,0
+10443,6,Queso Cabrales,16.8,21,4.200001,0
+10466,10,Queso Cabrales,16.8,21,4.200001,0
+10486,5,Queso Cabrales,16.8,21,4.200001,0
+10489,15,Queso Cabrales,16.8,21,4.200001,0
+10248,10,Singaporean Hokkien Fried Mee,9.8,14,4.2,0
+10253,40,Maxilaku,16,20,4,0
+10290,15,Maxilaku,16,20,4,0
+10304,30,Maxilaku,16,20,4,0
+10360,35,Maxilaku,16,20,4,0
+10400,30,Maxilaku,16,20,4,0
+10404,30,Maxilaku,16,20,4,0
+10456,21,Maxilaku,16,20,4,0
+10481,24,Maxilaku,16,20,4,0
+10278,16,Gula Malacca,15.5,19.45,3.9500008,0
+10284,21,Gula Malacca,15.5,19.45,3.9500008,0
+10291,24,Gula Malacca,15.5,19.45,3.9500008,0
+10351,77,Gula Malacca,15.5,19.45,3.9500008,0
+10411,40,Gula Malacca,15.5,19.45,3.9500008,0
+10452,100,Gula Malacca,15.5,19.45,3.9500008,0
+10469,2,Gula Malacca,15.5,19.45,3.9500008,0
+10491,15,Gula Malacca,15.5,19.45,3.9500008,0
+10251,15,Ravioli Angelo,15.6,19.5,3.8999996,0
+10260,50,Ravioli Angelo,15.6,19.5,3.8999996,0
+10282,2,Ravioli Angelo,15.6,19.5,3.8999996,0
+10326,16,Ravioli Angelo,15.6,19.5,3.8999996,0
+10355,25,Ravioli Angelo,15.6,19.5,3.8999996,0
+10368,25,Ravioli Angelo,15.6,19.5,3.8999996,0
+10416,20,Ravioli Angelo,15.6,19.5,3.8999996,0
+10438,15,Ravioli Angelo,15.6,19.5,3.8999996,0
+10255,20,Chang,15.2,19,3.8000002,0
+10255,25,Inlagd Sill,15.2,19,3.8000002,0
+10258,50,Chang,15.2,19,3.8000002,0
+10264,35,Chang,15.2,19,3.8000002,0
+10270,30,Inlagd Sill,15.2,19,3.8000002,0
+10298,40,Chang,15.2,19,3.8000002,0
+10298,40,Inlagd Sill,15.2,19,3.8000002,0
+10313,12,Inlagd Sill,15.2,19,3.8000002,0
+10327,25,Chang,15.2,19,3.8000002,0
+10335,7,Chang,15.2,19,3.8000002,0
+10337,20,Inlagd Sill,15.2,19,3.8000002,0
+10342,24,Chang,15.2,19,3.8000002,0
+10342,40,Inlagd Sill,15.2,19,3.8000002,0
+10358,20,Inlagd Sill,15.2,19,3.8000002,0
+10371,6,Inlagd Sill,15.2,19,3.8000002,0
+10393,25,Chang,15.2,19,3.8000002,0
+10406,5,Inlagd Sill,15.2,19,3.8000002,0
+10418,60,Chang,15.2,19,3.8000002,0
+10435,10,Chang,15.2,19,3.8000002,0
+10440,45,Chang,15.2,19,3.8000002,0
+10469,40,Chang,15.2,19,3.8000002,0
+10485,20,Chang,15.2,19,3.8000002,0
+10267,50,Boston Crab Meat,14.7,18.4,3.6999998,0
+10273,60,Boston Crab Meat,14.7,18.4,3.6999998,0
+10285,40,Boston Crab Meat,14.7,18.4,3.6999998,0
+10301,10,Boston Crab Meat,14.7,18.4,3.6999998,0
+10303,40,Boston Crab Meat,14.7,18.4,3.6999998,0
+10347,4,Boston Crab Meat,14.7,18.4,3.6999998,0
+10406,2,Boston Crab Meat,14.7,18.4,3.6999998,0
+10431,50,Boston Crab Meat,14.7,18.4,3.6999998,0
+10448,20,Boston Crab Meat,14.7,18.4,3.6999998,0
+10465,20,Boston Crab Meat,14.7,18.4,3.6999998,0
+10474,21,Boston Crab Meat,14.7,18.4,3.6999998,0
+10482,10,Boston Crab Meat,14.7,18.4,3.6999998,0
+10484,10,Boston Crab Meat,14.7,18.4,3.6999998,0
+10253,42,Chartreuse verte,14.4,18,3.6000004,0
+10257,6,Chartreuse verte,14.4,18,3.6000004,0
+10261,20,Steeleye Stout,14.4,18,3.6000004,0
+10267,15,Lakkalikri,14.4,18,3.6000004,0
+10273,33,Lakkalikri,14.4,18,3.6000004,0
+10281,4,Steeleye Stout,14.4,18,3.6000004,0
+10285,45,Chai,14.4,18,3.6000004,0
+10286,100,Steeleye Stout,14.4,18,3.6000004,0
+10294,18,Chai,14.4,18,3.6000004,0
+10297,60,Chartreuse verte,14.4,18,3.6000004,0
+10305,30,Chartreuse verte,14.4,18,3.6000004,0
+10317,20,Chai,14.4,18,3.6000004,0
+10318,6,Lakkalikri,14.4,18,3.6000004,0
+10319,30,Lakkalikri,14.4,18,3.6000004,0
+10321,10,Steeleye Stout,14.4,18,3.6000004,0
+10323,4,Chartreuse verte,14.4,18,3.6000004,0
+10324,70,Steeleye Stout,14.4,18,3.6000004,0
+10343,15,Lakkalikri,14.4,18,3.6000004,0
+10347,50,Chartreuse verte,14.4,18,3.6000004,0
+10348,15,Chai,14.4,18,3.6000004,0
+10354,12,Chai,14.4,18,3.6000004,0
+10361,54,Chartreuse verte,14.4,18,3.6000004,0
+10363,12,Lakkalikri,14.4,18,3.6000004,0
+10370,15,Chai,14.4,18,3.6000004,0
+10377,20,Chartreuse verte,14.4,18,3.6000004,0
+10390,40,Steeleye Stout,14.4,18,3.6000004,0
+10398,30,Steeleye Stout,14.4,18,3.6000004,0
+10399,35,Lakkalikri,14.4,18,3.6000004,0
+10400,35,Steeleye Stout,14.4,18,3.6000004,0
+10406,10,Chai,14.4,18,3.6000004,0
+10413,24,Chai,14.4,18,3.6000004,0
+10413,14,Lakkalikri,14.4,18,3.6000004,0
+10424,60,Steeleye Stout,14.4,18,3.6000004,0
+10425,20,Lakkalikri,14.4,18,3.6000004,0
+10434,18,Lakkalikri,14.4,18,3.6000004,0
+10444,8,Steeleye Stout,14.4,18,3.6000004,0
+10445,6,Chartreuse verte,14.4,18,3.6000004,0
+10455,20,Chartreuse verte,14.4,18,3.6000004,0
+10475,42,Lakkalikri,14.4,18,3.6000004,0
+10477,15,Chai,14.4,18,3.6000004,0
+10477,20,Chartreuse verte,14.4,18,3.6000004,0
+10255,35,Pavlova,13.9,17.45,3.5500011,0
+10263,60,Pavlova,13.9,17.45,3.5500011,0
+10287,40,Pavlova,13.9,17.45,3.5500011,0
+10296,30,Pavlova,13.9,17.45,3.5500011,0
+10310,10,Pavlova,13.9,17.45,3.5500011,0
+10324,21,Pavlova,13.9,17.45,3.5500011,0
+10359,56,Pavlova,13.9,17.45,3.5500011,0
+10403,21,Pavlova,13.9,17.45,3.5500011,0
+10439,16,Pavlova,13.9,17.45,3.5500011,0
+10440,49,Pavlova,13.9,17.45,3.5500011,0
+10454,20,Pavlova,13.9,17.45,3.5500011,0
+10469,35,Pavlova,13.9,17.45,3.5500011,0
+10489,18,Pavlova,13.9,17.45,3.5500011,0
+10300,30,Louisiana Hot Spiced Okra,13.6,17,3.3999996,0
+10442,60,Louisiana Hot Spiced Okra,13.6,17,3.3999996,0
+10475,60,Louisiana Hot Spiced Okra,13.6,17,3.3999996,0
+10493,10,Louisiana Hot Spiced Okra,13.6,17,3.3999996,0
+10350,15,Valkoinen suklaa,13,16.25,3.25,0
+10383,15,Valkoinen suklaa,13,16.25,3.25,0
+10429,40,Valkoinen suklaa,13,16.25,3.25,0
+10465,25,Valkoinen suklaa,13,16.25,3.25,0
+10283,20,Genen Shouyu,12.4,15.5,3.1000004,0
+10323,5,Genen Shouyu,12.4,15.5,3.1000004,0
+10260,21,Outback Lager,12,15,3,0
+10265,20,Outback Lager,12,15,3,0
+10278,25,Rd Kaviar,12,15,3,0
+10299,20,Outback Lager,12,15,3,0
+10308,5,Outback Lager,12,15,3,0
+10315,30,Outback Lager,12,15,3,0
+10380,30,Outback Lager,12,15,3,0
+10389,30,Outback Lager,12,15,3,0
+10420,8,Outback Lager,12,15,3,0
+10420,20,Rd Kaviar,12,15,3,0
+10453,25,Outback Lager,12,15,3,0
+10476,12,Outback Lager,12,15,3,0
+10485,60,Outback Lager,12,15,3,0
+10488,20,Rd Kaviar,12,15,3,0
+10284,5,Laughing Lumberjack Lager,11.2,14,2.8000002,0
+10287,20,Sasquatch Ale,11.2,14,2.8000002,0
+10309,2,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10311,6,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10315,14,Sasquatch Ale,11.2,14,2.8000002,0
+10323,4,NuNuCa Nu-Nougat-Creme,11.2,14,2.8000002,0
+10332,10,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10345,9,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10347,10,NuNuCa Nu-Nougat-Creme,11.2,14,2.8000002,0
+10358,10,Sasquatch Ale,11.2,14,2.8000002,0
+10362,50,NuNuCa Nu-Nougat-Creme,11.2,14,2.8000002,0
+10367,36,Sasquatch Ale,11.2,14,2.8000002,0
+10386,10,Sasquatch Ale,11.2,14,2.8000002,0
+10393,7,NuNuCa Nu-Nougat-Creme,11.2,14,2.8000002,0
+10404,40,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10438,20,Sasquatch Ale,11.2,14,2.8000002,0
+10463,50,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10467,12,NuNuCa Nu-Nougat-Creme,11.2,14,2.8000002,0
+10483,35,Sasquatch Ale,11.2,14,2.8000002,0
+10492,60,NuNuCa Nu-Nougat-Creme,11.2,14,2.8000002,0
+10492,20,Singaporean Hokkien Fried Mee,11.2,14,2.8000002,0
+10314,30,Escargots de Bourgogne,10.6,13.25,2.6499996,0
+10327,30,Escargots de Bourgogne,10.6,13.25,2.6499996,0
+10373,80,Escargots de Bourgogne,10.6,13.25,2.6499996,0
+10374,15,Escargots de Bourgogne,10.6,13.25,2.6499996,0
+10256,12,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10257,15,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10290,10,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10366,5,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10367,7,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10399,14,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10417,35,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10421,10,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10451,55,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10483,30,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10491,7,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10495,5,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10497,25,Original Frankfurter grne Soe,10.4,13,2.6000004,0
+10403,70,Chocolade,10.2,12.75,2.5500002,0
+10453,15,Chocolade,10.2,12.75,2.5500002,0
+10253,20,Gorgonzola Telino,10,12.5,2.5,0
+10272,40,Gorgonzola Telino,10,12.5,2.5,0
+10273,15,Gorgonzola Telino,10,12.5,2.5,0
+10288,3,Scottish Longbreads,10,12.5,2.5,0
+10300,20,Scottish Longbreads,10,12.5,2.5,0
+10303,15,Scottish Longbreads,10,12.5,2.5,0
+10307,3,Scottish Longbreads,10,12.5,2.5,0
+10325,4,Gorgonzola Telino,10,12.5,2.5,0
+10328,10,Scottish Longbreads,10,12.5,2.5,0
+10334,10,Scottish Longbreads,10,12.5,2.5,0
+10335,25,Gorgonzola Telino,10,12.5,2.5,0
+10342,56,Gorgonzola Telino,10,12.5,2.5,0
+10343,4,Scottish Longbreads,10,12.5,2.5,0
+10356,30,Gorgonzola Telino,10,12.5,2.5,0
+10359,70,Gorgonzola Telino,10,12.5,2.5,0
+10363,20,Gorgonzola Telino,10,12.5,2.5,0
+10374,30,Gorgonzola Telino,10,12.5,2.5,0
+10376,42,Gorgonzola Telino,10,12.5,2.5,0
+10385,8,Scottish Longbreads,10,12.5,2.5,0
+10390,60,Gorgonzola Telino,10,12.5,2.5,0
+10393,32,Gorgonzola Telino,10,12.5,2.5,0
+10399,60,Scottish Longbreads,10,12.5,2.5,0
+10417,36,Scottish Longbreads,10,12.5,2.5,0
+10423,14,Gorgonzola Telino,10,12.5,2.5,0
+10424,30,Scottish Longbreads,10,12.5,2.5,0
+10446,3,Gorgonzola Telino,10,12.5,2.5,0
+10460,21,Scottish Longbreads,10,12.5,2.5,0
+10475,35,Gorgonzola Telino,10,12.5,2.5,0
+10490,30,Scottish Longbreads,10,12.5,2.5,0
+10496,20,Gorgonzola Telino,10,12.5,2.5,0
+10287,15,Spegesild,9.6,12,2.3999996,0
+10324,30,Spegesild,9.6,12,2.3999996,0
+10390,45,Spegesild,9.6,12,2.3999996,0
+10395,28,Spegesild,9.6,12,2.3999996,0
+10417,2,Spegesild,9.6,12,2.3999996,0
+10428,20,Spegesild,9.6,12,2.3999996,0
+10436,5,Spegesild,9.6,12,2.3999996,0
+10454,10,Spegesild,9.6,12,2.3999996,0
+10459,20,Spegesild,9.6,12,2.3999996,0
+10466,5,Spegesild,9.6,12,2.3999996,0
+10254,21,Longlife Tofu,8,10,2,0
+10259,10,Sir Rodney's Scones,8,10,2,0
+10261,20,Sir Rodney's Scones,8,10,2,0
+10263,36,Longlife Tofu,8,10,2,0
+10289,30,Aniseed Syrup,8,10,2,0
+10333,10,Sir Rodney's Scones,8,10,2,0
+10368,5,Sir Rodney's Scones,8,10,2,0
+10370,20,Longlife Tofu,8,10,2,0
+10381,14,Longlife Tofu,8,10,2,0
+10382,50,Longlife Tofu,8,10,2,0
+10397,10,Sir Rodney's Scones,8,10,2,0
+10405,50,Aniseed Syrup,8,10,2,0
+10406,30,Sir Rodney's Scones,8,10,2,0
+10409,12,Sir Rodney's Scones,8,10,2,0
+10418,15,Longlife Tofu,8,10,2,0
+10430,50,Sir Rodney's Scones,8,10,2,0
+10439,30,Longlife Tofu,8,10,2,0
+10456,40,Sir Rodney's Scones,8,10,2,0
+10461,40,Sir Rodney's Scones,8,10,2,0
+10477,21,Sir Rodney's Scones,8,10,2,0
+10484,14,Sir Rodney's Scones,8,10,2,0
+10485,20,Aniseed Syrup,8,10,2,0
+10486,16,Longlife Tofu,8,10,2,0
+10250,10,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10260,16,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10264,25,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10316,10,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10318,20,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10340,12,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10351,13,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10379,8,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10411,25,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10444,30,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10495,20,Jack's New England Clam Chowder,7.7,9.65,1.9499998,0
+10332,16,Zaanse koeken,7.6,9.5,1.9000001,0
+10388,15,Rogede sild,7.6,9.5,1.9000001,0
+10418,55,Zaanse koeken,7.6,9.5,1.9000001,0
+10431,30,Zaanse koeken,7.6,9.5,1.9000001,0
+10465,30,Rogede sild,7.6,9.5,1.9000001,0
+10480,30,Zaanse koeken,7.6,9.5,1.9000001,0
+10281,1,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10283,18,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10299,15,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10329,10,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10345,80,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10414,18,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10416,20,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10421,4,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10438,15,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10446,12,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10447,40,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10463,21,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10487,5,Teatime Chocolate Biscuits,7.3,9.2,1.8999996,0
+10337,40,Tunnbrd,7.2,9,1.8000002,0
+10348,25,Tunnbrd,7.2,9,1.8000002,0
+10396,40,Tunnbrd,7.2,9,1.8000002,0
+10402,60,Tunnbrd,7.2,9,1.8000002,0
+10462,21,Tunnbrd,7.2,9,1.8000002,0
+10470,15,Tunnbrd,7.2,9,1.8000002,0
+10495,10,Tunnbrd,7.2,9,1.8000002,0
+10280,30,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10293,6,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10294,6,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10312,10,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10326,50,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10347,6,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10363,12,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10436,24,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10460,4,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10474,10,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10490,36,Rhnbru Klosterbier,6.2,7.75,1.5500002,0
+10288,10,Tourtire,5.9,7.45,1.5499997,0
+10306,5,Tourtire,5.9,7.45,1.5499997,0
+10331,15,Tourtire,5.9,7.45,1.5499997,0
+10349,24,Tourtire,5.9,7.45,1.5499997,0
+10352,20,Tourtire,5.9,7.45,1.5499997,0
+10360,28,Tourtire,5.9,7.45,1.5499997,0
+10362,24,Tourtire,5.9,7.45,1.5499997,0
+10367,18,Tourtire,5.9,7.45,1.5499997,0
+10375,10,Tourtire,5.9,7.45,1.5499997,0
+10408,6,Tourtire,5.9,7.45,1.5499997,0
+10432,40,Tourtire,5.9,7.45,1.5499997,0
+10442,80,Tourtire,5.9,7.45,1.5499997,0
+10445,15,Tourtire,5.9,7.45,1.5499997,0
+10450,6,Tourtire,5.9,7.45,1.5499997,0
+10487,24,Tourtire,5.9,7.45,1.5499997,0
+10322,20,Filo Mix,5.6,7,1.4000001,0
+10334,8,Filo Mix,5.6,7,1.4000001,0
+10388,20,Filo Mix,5.6,7,1.4000001,0
+10446,15,Filo Mix,5.6,7,1.4000001,0
+10449,20,Filo Mix,5.6,7,1.4000001,0
+10276,10,Konbu,4.8,6,1.1999998,0
+10291,20,Konbu,4.8,6,1.1999998,0
+10325,12,Konbu,4.8,6,1.1999998,0
+10383,20,Konbu,4.8,6,1.1999998,0
+10391,18,Konbu,4.8,6,1.1999998,0
+10394,10,Konbu,4.8,6,1.1999998,0
+10420,2,Konbu,4.8,6,1.1999998,0
+10462,1,Konbu,4.8,6,1.1999998,0
+10254,15,Guaran Fantstica,3.6,4.5,0.9000001,0
+10263,28,Guaran Fantstica,3.6,4.5,0.9000001,0
+10275,12,Guaran Fantstica,3.6,4.5,0.9000001,0
+10280,12,Guaran Fantstica,3.6,4.5,0.9000001,0
+10281,6,Guaran Fantstica,3.6,4.5,0.9000001,0
+10293,10,Guaran Fantstica,3.6,4.5,0.9000001,0
+10352,10,Guaran Fantstica,3.6,4.5,0.9000001,0
+10355,25,Guaran Fantstica,3.6,4.5,0.9000001,0
+10358,10,Guaran Fantstica,3.6,4.5,0.9000001,0
+10386,15,Guaran Fantstica,3.6,4.5,0.9000001,0
+10387,15,Guaran Fantstica,3.6,4.5,0.9000001,0
+10446,20,Guaran Fantstica,3.6,4.5,0.9000001,0
+10465,25,Guaran Fantstica,3.6,4.5,0.9000001,0
+10467,28,Guaran Fantstica,3.6,4.5,0.9000001,0
+10472,80,Guaran Fantstica,3.6,4.5,0.9000001,0
+10252,25,Geitost,2,2.5,0.5,0
+10269,60,Geitost,2,2.5,0.5,0
+10271,24,Geitost,2,2.5,0.5,0
+10273,20,Geitost,2,2.5,0.5,0
+10341,8,Geitost,2,2.5,0.5,0
+10382,60,Geitost,2,2.5,0.5,0
+10410,49,Geitost,2,2.5,0.5,0
+10414,50,Geitost,2,2.5,0.5,0
+10415,20,Geitost,2,2.5,0.5,0
+10454,20,Geitost,2,2.5,0.5,0
+10473,12,Geitost,2,2.5,0.5,0
