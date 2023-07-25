@@ -1,4 +1,4 @@
-# Projeto1 - Datawarehouse Northwind
+# Projeto1 - Data warehouse Northwind
 
 >Este projeto tem como objetivo resolver problemas de negócio simulados e fornecer soluções usando um Datawarehouse construído com tecnologias AWS, incluindo AWS Redshift, AWS S3 e um Banco de Dados Relacional.
 
